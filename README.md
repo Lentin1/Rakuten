@@ -1,9 +1,9 @@
 ### Hey 👋, I'm Lentin1
 
 <a href="https://www.instagram.com/rakuten0129/" target="_blank"><img alt="Lentin1's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;
-<a href="https://x.com/Lentini0129" target="_blank"><img alt="Lentin1's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" /></a>&nbsp;
-<a href="https://space.bilibili.com/299811106?spm_id_from=333.1007.0.0" target="_blank"><img alt="Bilibili/Photo/Movie" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" /></a>&nbsp;
-<a href="YOUR_JAPANESE_LEARNING_PLATFORM_LINK_OPTIONAL" target="_blank"><img alt="Japanese Learning" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nihongo.svg" /></a>
+<a href="https://x.com/Lentini0129" target="_blank"><img alt="Lentin1's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;
+<a href="https://space.bilibili.com/299811106?spm_id_from=333.1007.0.0" target="_blank"><img alt="Lentin1's Bilibili" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" /></a>&nbsp;
+<a href="https://www.xiaohongshu.com/user/profile/5d2440b10000000016030b69" target="_blank"><img alt="Lentin1's Xiaohongshu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xiaohongshu.svg" /></a>
 
 <br />
 <br />
