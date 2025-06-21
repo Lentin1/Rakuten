@@ -6,9 +6,8 @@
 <a href="https://www.xiaohongshu.com/user/profile/5d2440b10000000016030b69" target="_blank"><img alt="Lentin1's Xiaohongshu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xiaohongshu.svg" /></a>
 
 <br />
-<br />
 
-Hi there, I'm **Lentin1** (日文名：**Rakuten ラクテン**), a **Computer Science student** 🚀 from Hangzhou. Currently, I'm a **Sophomore** (大二下) passionate about **photography, movies, and anime**. I'm also learning **Japanese**! 🇯🇵
+Hi there, I'm **Lentin1** (日文名：**Rakuten ラクテン**), a **Computer Science student** 🚀 from Hangzhou. Currently, I'm a **Sophomore** (大二下) passionate about **photography, movies, and anime**. I'm also learning **Japanese**!
 
 <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -20,9 +19,13 @@ Hi there, I'm **Lentin1** (日文名：**Rakuten ラクテン**), a **Computer S
 - 🤔 Also interested in **Deep Learning, Web Development, ** ;
 - 💬 Ask me about anything related to my studies or hobbies, I'm happy to help;
 - 📫 Please email via zhaoletian69@gmail.com to reach me.
+
+<br />
+
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Kotlin"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 ![Lentin1's github stats](https://github-readme-stats.vercel.app/api?username=Lentin1&show_icons=true&hide_border=true)
