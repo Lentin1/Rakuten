@@ -1,4 +1,4 @@
-### Hey 👋, I'm Lentin1
+### Hey 👋, I'm Rakuten
 </br>
 <a href="https://www.instagram.com/rakuten0129/" target="_blank"><img alt="Lentin1's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;
 <a href="https://x.com/Lentini0129" target="_blank"><img alt="Lentin1's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;
@@ -7,7 +7,7 @@
 </br>
 </br>
 
-Hi there, I'm **Lentin1** (**Rakuten ラクテン**), a **Computer Science student** 🚀 from Hangzhou. 
+Hi there, I'm **Rakuten** (**ラクテン**), a **Computer Science student** 🚀 from Hangzhou. 
 Currently, I'm a **Sophomore**  passionate about **photography, movies, and anime**. I'm also learning **Japanese**!
 **Talking about Personal Stuffs:**
 - 🏫 I’m currently pursuing my Bachelor's degree in Computer Science;
