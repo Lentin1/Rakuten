@@ -27,7 +27,7 @@ Currently, I'm a **Sophomore**  passionate about **photography, movies, and anim
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 
 
-![Lentin1's github stats](https://github-readme-stats.vercel.app/api?username=Lentin1&show_icons=true&hide_border=true)
+![Rakuten's github stats](https://github-readme-stats.vercel.app/api?username=Lentin1&show_icons=true&hide_border=true)
 
 
-⭐️ From [Lentin1](https://github.com/Lentin1)
+⭐️ From [Rakuten](https://github.com/Lentin1)
